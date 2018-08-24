@@ -1,6 +1,30 @@
 {
   "data": [
     "all",
-    "ui"
+    "animation",
+    "backend",
+    "analytics",
+    "integrations",
+    "forms",
+    "libraries",
+    "frameworks",
+    "build__development",
+    "geolocation",
+    "navigation",
+    "navigation_demos",
+    "media",
+    "monetization",
+    "other_platforms",
+    "internationalization",
+    "open_source_apps",
+    "seeds",
+    "storage",
+    "text__rich_content",
+    "styling",
+    "utilities",
+    "system",
+    "web",
+    "ui",
+    "utils__infra"
   ]
 }
