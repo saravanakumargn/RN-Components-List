@@ -1,6 +1,22 @@
 {
   "data": [
     "all",
+    "analytics",
+    "backend",
+    "integrations",
+    "forms",
+    "geolocation",
+    "internationalization",
+    "navigation_demos",
+    "media",
+    "storage",
+    "styling",
+    "utils__infra",
+    "build__development",
+    "text__rich_content",
+    "system",
+    "web",
+    "navigation",
     "ui"
   ]
 }
