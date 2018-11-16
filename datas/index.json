@@ -1,6 +1,10 @@
 {
   "data": [
     "all",
-    "ui"
+    "navigation_demos",
+    "navigation",
+    "ui",
+    "analytics",
+    "text__rich_content"
   ]
 }
